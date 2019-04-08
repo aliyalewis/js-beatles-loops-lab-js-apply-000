@@ -1,5 +1,5 @@
-function theBeatlesPlay(muscian, instrument) {
+function theBeatlesPlay(musician, instrument) {
   var array = [];
   for(let i = 0; i<musician.length; i++);
-  return `${musican} plays ${instrument}`
+  return `${musician} plays ${instrument}`
 }
